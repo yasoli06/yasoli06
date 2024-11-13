@@ -11,7 +11,7 @@ Welcome to my GitHub profile! Here, you’ll find projects I’m working on, ski
 
 ## 🌍 Connect with Me
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile) <!-- Replace with your LinkedIn URL -->
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmin-fullstack/) <!-- Replace with your LinkedIn URL -->
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasmiineri@gmail.com)
 
 
