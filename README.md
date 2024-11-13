@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi there, I'm Yasmin Neri!
 
-<!--
-**yasoli06/yasoli06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here, you’ll find projects I’m working on, skills I'm developing, and a bit more about me.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔭 I’m currently working on **[](#)** <!-- Replace # with the link to your project if available -->
+- 🌱 I’m learning and experimenting with **[Java, Vue.js, Spring, Python, HTML, CSS and JavaScript]**
+
+---
+
+## 🌍 Connect with Me
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/yasmin-fullstack/)) <!-- Replace with your LinkedIn URL -->
+
+---
+
+Thanks for visiting my profile! Feel free to reach out if you have questions or want to collaborate.
+
+---
+
+### ✨ Follow and Connect!
