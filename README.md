@@ -9,11 +9,12 @@ I am a Junior Fullstack Developer passionate about learning and creating efficie
 
 Since starting my programming journey in 2023, I have been building a strong foundation in software development, tackling challenges that help me grow. I enjoy learning new technologies and staying active through sports,
 
-- 🔭 I’m currently working on **[https://github.com/yasoli06/Project_1-Brief](https://project-1-brief.vercel.app/)** <!-- Replace # with the link to your project if available -->
+- 🔭 I’m currently working on **[Circle Project](https://project-1-brief.vercel.app/)** <!-- Replace # with the link to your project if available -->
 
 
 ## 🛠️ Technologies & Tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,vue,c,bootstrap,firebase,git,github,mysql,nodejs,postman,py,spring,supabase,tailwind,vercel,vim)](https://skillicons.dev)
+
 
 ## 🌍 Connect with Me
 
